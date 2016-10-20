@@ -23,7 +23,7 @@ developers.
 *   Web content management including Personalization and Content Targeting
 *   Documents and rich media management
 *   Mobile development platform
-*   Business forms and workflow
+*   Business forms and work flow
 *   Collaboration features such as blogs, wikis, and social networking
 *   Consistent and powerful Lexicon user experience
 *   Integrated development environment using [Liferay IDE](https://www.liferay.com/community/liferay-projects/liferay-ide/overview)
